@@ -1,0 +1,1 @@
+Computer is a machine that takes input, processes it & shows you output.
