@@ -2,4 +2,6 @@ Computer is a machine that takes input, processes it & shows you output.
 
 It is an electronic machine.
 
+This is an addition.
+
 It is also known as GIGO.
