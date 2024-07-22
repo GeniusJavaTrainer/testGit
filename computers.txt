@@ -4,4 +4,6 @@ It is an electronic machine.
 
 This is an addition.
 
+Hello from bare repository.
+
 It is also known as GIGO.
