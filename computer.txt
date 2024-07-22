@@ -1,0 +1,5 @@
+Computer is a machine that takes input, processes it & shows you output.
+
+It is an electronic machine.
+
+It is also known as GIGO.
